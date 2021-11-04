@@ -3,7 +3,7 @@ A simple true-false quiz game built using **Python** completely using the concep
 
 ![Image_0](Image_0.png)
 
-##Game Instructions 👾 <br>
+## Game Instructions 👾 <br>
 1. The quiz-game will be asking questions to the player to which, player has to reply with either true or false.
 2. Each correct answer will score a point.
 3. Each time a question is answered, the current score gets updated.
