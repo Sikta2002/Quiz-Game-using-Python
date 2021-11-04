@@ -1,4 +1,4 @@
-#The Quiz-Game ✔ - ✖ <br>
+# The Quiz-Game ✔ - ✖ <br>
 A simple true-false quiz game built using **Python** completely using the concepts of **Object-Oriented Programming**.
 
 ![Image_0](Image_0.png)
