@@ -1,8 +1,9 @@
-#The Quiz-Game ✔ - ✖
+#The Quiz-Game ✔ - ✖ <br>
 A simple true-false quiz game built using **Python** completely using the concepts of **Object-Oriented Programming**.
 
 ![Image_0](Image_0.png)
-##Game Instructions 👾
+
+##Game Instructions 👾 <br>
 1. The quiz-game will be asking questions to the player to which, player has to reply with either true or false.
 2. Each correct answer will score a point.
 3. Each time a question is answered, the current score gets updated.
@@ -13,14 +14,13 @@ Here's an image of the quiz-game in action:
 
 ![Image_1](Image_1.png)
 
-##Setup 💻
+##Setup 💻 <br>
 Contains the following:
 1. main.py
 2. question_model.py
 3. data.py
-4. quiz_brain.py
-
-##Let's Create 🏗️
+4. quiz_brain.py <br>
+##Let's Create 🏗️ <br>
 ###Task - 1 🛠️: 
 - We start off with the creation a model for a question in our quiz. To do so we use **question_model.py**.
 - We create a Question class with an __ init() __ method with two attributes text and answer.
