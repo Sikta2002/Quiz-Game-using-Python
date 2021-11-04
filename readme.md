@@ -1,7 +1,7 @@
 #The Quiz-Game ✔ - ✖
 A simple true-false quiz game built using **Python** completely using the concepts of **Object-Oriented Programming**.
 
-![Image_0](C:\Users\KIIT\Desktop\Quiz Game\Image_0.png)
+![Image_0](Image_0.png)
 ##Game Instructions 👾
 1. The quiz-game will be asking questions to the player to which, player has to reply with either true or false.
 2. Each correct answer will score a point.
@@ -11,7 +11,7 @@ A simple true-false quiz game built using **Python** completely using the concep
 
 Here's an image of the quiz-game in action:
 
-![Image_1](C:\Users\KIIT\Desktop\Quiz Game\Image_1.png)
+![Image_1](Image_1.png)
 
 ##Setup 💻
 Contains the following:
@@ -37,9 +37,9 @@ Contains the following:
 - Click on the link and follow: API -> Select the desired options -> GENERATE API URL -> Copy the URL to new tab -> Questions in JSON Format
 - Copy the data to data.py. We can format the data for increasing readability (for PyCharm: Code -> Reformat File).
 
-![Image_2](C:\Users\KIIT\Desktop\Quiz Game\Image_2.png)
+![Image_2](Image_2.png)
 
-![Image_3](C:\Users\KIIT\Desktop\Quiz Game\Image_3.png)
+![Image_3](Image_3.png)
 
 ###Task - 3 🛠️:
 - We move on to **quiz_brain.py** which performs the following tasks: 
